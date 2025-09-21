@@ -22,10 +22,10 @@
 <ul>
   <li>Paradigma de programação Estruturado</li>
   <li>Manipulação do DOM com JavaScript</li>
-  <li>fonte utilizado do google fontes</li>
-  <li>tag audio utilizada</li>
-  <li>flex box css</li>
-  <li>:root para criação de variáveis CSS</li>
+  <li>reset css utilizado</li>
+  <li>JavaScript organizado em vários arquivos JS</li>
+  <li>tabelas criadas com table, thead, tbody, tr e th</li>
+  <li>pseudo elemento com content=""</li>
   <li>background: linear-gradient(, box-shadow:</li>
   <li>Estrutura de repetição for utilizado</li>
   <li>onclick, onkeyup e onkeydown usado como events</li>
