@@ -26,9 +26,5 @@
   <li>JavaScript organizado em vários arquivos JS</li>
   <li>tabelas criadas com table, thead, tbody, tr e th</li>
   <li>pseudo elemento com content=""</li>
-  <li>background: linear-gradient(, box-shadow:</li>
-  <li>Estrutura de repetição for utilizado</li>
-  <li>onclick, onkeyup e onkeydown usado como events</li>
-  <li>add() e remove() utilizado</li>
-  <li>reset CSS utilizado</li>
+  
 </ul>
